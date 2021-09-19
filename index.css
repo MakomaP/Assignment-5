@@ -1,0 +1,52 @@
+.content{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5;
+}
+
+.navigation-menu a{
+     color: white;
+     padding-top: 3%;
+     
+}
+
+.top {
+    width:70%;
+}
+.topi {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+}
+/*.blog {
+    color: #000;
+    width: 10px;
+    height: 60px;
+}*/
+/* blog styles */
+.page {
+    color: white;
+}
+.page-blog {
+    color: #DBF6E9;
+}
+.page-title {
+    color:red;
+}
+.page-content{
+     color: white;
+    
+}
+
+/* page content */
+body{
+    background-image: url("image3.webp");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    margin:auto;
+    opacity: 100%;
+}
+
+.footer{
+    color: darkblue;
+}
